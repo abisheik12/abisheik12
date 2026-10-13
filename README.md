@@ -120,7 +120,6 @@ A deep learning project designed to classify images as **real or synthetic (deep
 
 ## 🌱 Hybrid AI Model for Soil Fertility Prediction
 
-<img align="right" width="300" src="https://media.giphy.com/media/8b1c8qX1L9G6Q/giphy.gif">
 
 An intelligent multi-modal AI system designed for **soil fertility prediction and fertilizer recommendations**.
 
